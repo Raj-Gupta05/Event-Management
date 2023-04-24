@@ -1,0 +1,4 @@
+/dj-events-backend/node_modules
+/dj-events-backend/.env
+/dj-events-frontend/.env
+/dj-events-frontend/node_modules
